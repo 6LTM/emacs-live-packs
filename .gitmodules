@@ -1,0 +1,6 @@
+[submodule "scss-pack/lib/scss-mode"]
+	path = scss-pack/lib/scss-mode
+	url = https://github.com/antonj/scss-mode.git
+[submodule "scss-pack/lib/rainbow-mode"]
+	path = scss-pack/lib/rainbow-mode
+	url = https://github.com/emacsmirror/rainbow-mode.git
