@@ -7,3 +7,15 @@
 [submodule "python-pack/lib/python-mode"]
 	path = python-pack/lib/python-mode
 	url = https://github.com/emacsmirror/python-mode.git
+[submodule "flycheck-pack/lib/flycheck"]
+	path = flycheck-pack/lib/flycheck
+	url = https://github.com/flycheck/flycheck.git
+[submodule "flycheck-pack/lib/s"]
+	path = flycheck-pack/lib/s
+	url = https://github.com/magnars/s.el.git
+[submodule "flycheck-pack/lib/dash"]
+	path = flycheck-pack/lib/dash
+	url = https://github.com/magnars/dash.el.git
+[submodule "flycheck-pack/lib/f"]
+	path = flycheck-pack/lib/f
+	url = https://github.com/rejeep/f.el.git

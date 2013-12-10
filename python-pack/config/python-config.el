@@ -1,5 +1,2 @@
-;; unload the original python-mode
-(when (featurep 'python) (unload-feature 'python t))
-
-;; set ipython as default python interpreter
-(setq py-shell-name "ipython")
+;; add eldoc-mode if python-mode is active
+(add-hook 'python-mode-hook 'eldoc-mode)

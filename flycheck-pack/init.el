@@ -1,0 +1,10 @@
+(live-add-pack-lib "flycheck")
+(live-add-pack-lib "dash")
+(live-add-pack-lib "s")
+(live-add-pack-lib "f")
+(live-load-config-file "flycheck-config.el")
+
+(require 'dash)
+(require 's)
+(require 'f)
+(require 'flycheck)
