@@ -22,3 +22,6 @@
 [submodule "colour-pack/lib/solarized-theme"]
 	path = colour-pack/lib/solarized-theme
 	url = https://github.com/sellout/emacs-color-theme-solarized.git
+[submodule "prosjekt-pack/lib/prosjekt"]
+	path = prosjekt-pack/lib/prosjekt
+	url = https://github.com/abingham/prosjekt.git

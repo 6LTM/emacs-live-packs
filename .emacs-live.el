@@ -6,6 +6,7 @@
 (live-add-packs '(~/.live-packs/python-pack))
 (live-add-packs '(~/.live-packs/flycheck-pack))
 (live-add-packs '(~/.live-packs/git-gutter-pack))
+(live-add-packs '(~/.live-packs/prosjekt-pack))
 
 ;; use solarized instead of colour-pack
 (live-add-packs '(~/.live-packs/colour-pack))
