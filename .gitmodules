@@ -25,3 +25,6 @@
 [submodule "prosjekt-pack/lib/prosjekt"]
 	path = prosjekt-pack/lib/prosjekt
 	url = https://github.com/abingham/prosjekt.git
+[submodule "web-mode-pack/lib/web-mode"]
+	path = web-mode-pack/lib/web-mode
+	url = https://github.com/fxbois/web-mode.git

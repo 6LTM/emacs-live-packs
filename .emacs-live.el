@@ -7,6 +7,7 @@
 (live-add-packs '(~/.live-packs/flycheck-pack))
 (live-add-packs '(~/.live-packs/git-gutter-pack))
 (live-add-packs '(~/.live-packs/prosjekt-pack))
+(live-add-packs '(~/.live-packs/web-mode-pack))
 
 ;; use solarized instead of colour-pack
 (live-add-packs '(~/.live-packs/colour-pack))
